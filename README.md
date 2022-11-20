@@ -1,16 +1,29 @@
-### Hi there 👋
+ # Desenvolvedor Back-end
+ 
+ ## Olá! Eu sou o Juan 👋
 
-<!--
-**Juanlimalf/juanlimalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### - 💻 Trabalho atualmente como desenvolvedor Back-end.
+### - 📝 Estou 
+### - 👨‍🎓 Estou cursando ADS na Uninove.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Juanliamlf">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juanlimalf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanlimalf&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Juan_Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="juan_HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Juan_CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Juan_MySQL" height="80" width="80" src="https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-5-logo.png">
+  <img align="center" alt="Juan_ORACLE" height="80" width="80" src="https://download.logo.wine/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.png">
+  <img align="center" alt="Juan_SQL-Server" height="80" width="80" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+  
+
+<div align="center">  
+  <h3>Linkedin</h3>
+  <a href="https://www.linkedin.com/in/juan-lima-225163154" target="_blank"><img height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" target="_blank"></a> 
+</div>
