@@ -3,7 +3,6 @@
  ## Olá! Eu sou o Juan 👋
 
 ### - 💻 Trabalho atualmente como desenvolvedor Back-end.
-### - 📝 Estou 
 ### - 👨‍🎓 Estou cursando ADS na Uninove.
 
 <div align="center">
