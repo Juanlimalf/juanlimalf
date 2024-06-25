@@ -10,7 +10,7 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Tenho exp
   - Flask
   - FastAPI
 
-### Frontend 🖌️
+### Frontend/ Mobile 🖌️
 - **Dart**:
   - Flutter
 - **JavaScript/TypeScript**:
@@ -18,13 +18,14 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Tenho exp
 
 ### DevOps 💻
 - **Git**
+- **Docker**
 - **Deploy em Nuvem**:
   - AWS
   - Azure
 
-### Formação 👨‍🎓
-- **Universidade Nove de Julho.**
-  - Formado em Analise e Desenvolvimento de Sistemas. 
+## Formação 👨‍🎓
+- **Universidade Nove de Julho**
+  - Analise e Desenvolvimento de Sistemas. 
 
 
 ## 📈 Estatísticas do GitHub
