@@ -23,7 +23,7 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Tenho exp
   - AWS
   - Azure
 
-## Formação 👨‍🎓
+## 👨‍🎓 Formação
 - **Universidade Nove de Julho**
   - Analise e Desenvolvimento de Sistemas. 
 
