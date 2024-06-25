@@ -1,9 +1,10 @@
- # Desenvolvedor Back-end
+ # Desenvolvedor FullStack - Python/Flutter
  
  ## Olá! Eu sou o Juan 👋
 
-### - 💻 Trabalho atualmente como desenvolvedor Back-end.
-### - 👨‍🎓 Estou cursando ADS na Uninove.
+### - 💻 Trabalho atualmente como desenvolvedor FullStack desenvolvendo aplicações mais voltadas para a linguagem Python e Dart utilizando frameworks como Django, Flask, FastApi, Flutter.
+### - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas pela Universidade Nove de Julho.
+
 
 <div align="center">
   <a href="https://github.com/Juanliamlf">
