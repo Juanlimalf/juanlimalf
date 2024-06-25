@@ -1,10 +1,33 @@
- # Desenvolvedor FullStack - Python/Flutter
- 
- ## Olá! Eu sou o Juan 👋
+ # Olá, eu sou Juan👋
 
-### - 💻 Trabalho atualmente como desenvolvedor FullStack desenvolvendo aplicações mais voltadas para a linguagem Python e Dart utilizando frameworks como Django, Flask, FastApi, Flutter.
-### - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas pela Universidade Nove de Julho.
+Sou um desenvolvedor FullStack apaixonado por tecnologia e inovação. Tenho experiência em diversas linguagens e frameworks que me permitem criar soluções completas, desde o backend até o frontend.
 
+## 🛠️ Tecnologias e Ferramentas
+
+### Backend ⚙️
+- **Python**:
+  - Django
+  - Flask
+  - FastAPI
+
+### Frontend 🖌️
+- **Dart**:
+  - Flutter
+- **JavaScript/TypeScript**:
+  - React
+
+### DevOps 💻
+- **Git**
+- **Deploy em Nuvem**:
+  - AWS
+  - Azure
+
+### Formação 👨‍🎓
+- **Universidade Nove de Julho.**
+  - Formado em Analise e Desenvolvimento de Sistemas. 
+
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Juanliamlf">
@@ -20,10 +43,11 @@
   <img align="center" alt="Juan_SQL-Server" height="80" width="80" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
 </div>
 
-#
   
+## 🌐 Contato
 
 <div align="center">  
   <h3>Linkedin</h3>
   <a href="https://www.linkedin.com/in/juan-lima-225163154" target="_blank"><img height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" target="_blank"></a> 
 </div>
+"Um especialista é alguém que cometeu todos os erros possíveis em um campo muito estreito." - Niels Bohr
