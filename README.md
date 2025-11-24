@@ -49,6 +49,7 @@ Gosto de construir soluções completas, escaláveis e bem estruturadas — desd
 - Integração e Deploy em Nuvem:
   - AWS
   - Azure
+  - GCP
 
 ---
 
