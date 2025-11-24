@@ -78,7 +78,7 @@ Gosto de construir soluções completas, escaláveis e bem estruturadas — desd
     <img height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="LinkedIn Juan">
   </a>
   <a href="mailto:juanlimalf@gmai.com" target="_blank">
-    <img height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/gmail.webp" alt="Email">
+    <img height="80" width="80" src="https://github.com/Juanlimalf/juanlimalf/blob/daa33062dd1fa3293312400e1a1298c28ce542f7/img/gmail.webp" alt="Email">
   </a>
 </div>
 
