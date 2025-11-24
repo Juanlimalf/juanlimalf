@@ -77,8 +77,8 @@ Gosto de construir soluções completas, escaláveis e bem estruturadas — desd
   <a href="https://www.linkedin.com/in/juan-lima-225163154" target="_blank">
     <img height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="LinkedIn Juan">
   </a>
-  <a href="mailto:juanlimalf@gmai.com">
-    <img height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/gmail.webp" alt="LinkedIn Juan">
+  <a href="mailto:juanlimalf@gmai.com" target="_blank">
+    <img height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/gmail.webp" alt="Email">
   </a>
 </div>
 
