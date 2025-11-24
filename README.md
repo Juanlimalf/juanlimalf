@@ -71,19 +71,6 @@ Gosto de construir soluções completas, escaláveis e bem estruturadas — desd
 
 ---
 
-## 🔧 Principais Stacks Visuais
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Juan_Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Juan_HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juan_CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juan_MySQL" height="80" width="80" src="https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-5-logo.png">
-  <img align="center" alt="Juan_ORACLE" height="80" width="80" src="https://download.logo.wine/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.png">
-  <img align="center" alt="Juan_SQL-Server" height="80" width="80" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-</div>
-
----
-
 ## 🌐 Contato
 
 <div align="center">
