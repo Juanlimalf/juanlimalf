@@ -1,87 +1,133 @@
-# Olá, eu sou o Juan 👋
+# Juan Lima
 
-Sou desenvolvedor **Full Stack** com foco em **Python** no backend, **React** no frontend e **Flutter** para mobile.  
-Atualmente também estou estudando **Go (Golang)** e me aprofundando em **Arquitetura de Software**.
+<h3 align="center">Desenvolvedor Sênior | Software Architect | Full Stack Engineer</h3>
 
-Gosto de construir soluções completas, escaláveis e bem estruturadas — desde o banco de dados até a interface final do usuário.
-
----
-
-## 🧠 Sobre mim
-
-- 💼 Desenvolvedor **Full Stack**
-- 🐍 Especializado em **Python** (APIs, serviços, integrações)
-- 🌐 Frontend com **React** (SPA, consumo de APIs, componentização)
-- 📱 Mobile com **Flutter** (apps híbridos)
-- 🚀 Estudando **Go (Golang)** para serviços de alta performance
-- 🧱 Interesse forte em **boas práticas**, **clean architecture** e **design de sistemas**
+<p align="center">
+  Desenvolvedor Full Stack com foco em arquitetura de software, microsserviços, sistemas distribuídos e soluções cloud-native.<br/>
+  Experiência em desenvolvimento de aplicações escaláveis, APIs REST, arquitetura orientada a eventos e DevOps.<br/>
+  Atualmente cursando Pós-Graduação em <strong>Software Architecture pela FIAP</strong> — Tech Challenger FIAP.
+</p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📫 Contato
 
-### Backend ⚙️
-- **Linguagens:**
-  - Python
-- **Frameworks:**
-  - Django
-  - Flask
-  - FastAPI
-- **Banco de Dados:**
-  - MySQL
-  - Oracle
-  - SQL Server
+<p align="center">
+  <a href="https://linkedin.com/in/juanlimalf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Juanlimalf/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:juanlimalf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-### Frontend 🖌️
-- **JavaScript / TypeScript**
-  - React
-- **Fundamentos Web**
-  - HTML5
-  - CSS3
+---
 
-### Mobile 📱
-- **Dart**
-  - Flutter
+## 🚀 Tech Stack
 
-### DevOps & Outros 💻
-- Git & GitHub
-- Docker
-- Integração e Deploy em Nuvem:
-  - AWS
-  - Azure
-  - GCP
+### 👨‍💻 Linguagens
+- Python
+- TypeScript
+- JavaScript
+- Go *(aprofundando)*
+- Dart
+
+### ⚙️ Back-end
+- Django
+- FastAPI
+- Flask
+- REST APIs
+- Microsserviços
+- Event-Driven Architecture
+
+### 🎨 Front-end
+- React
+- Next.js
+- HTML / CSS
+- Bootstrap
+
+### 📱 Mobile
+- Flutter (Dart)
+
+### 🗄️ Bancos de Dados
+
+**SQL**
+- MySQL
+- PostgreSQL
+- Oracle
+- SQL Server
+- PL/SQL
+
+**NoSQL**
+- DynamoDB (AWS)
+- MongoDB
+- Redis
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, Lambda, DynamoDB)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- Docker & Docker Compose
+- Kubernetes
+- Linux
+- Git
+- CI/CD
+- DevSecOps
+
+---
+
+## 🧠 Especialidades
+
+- Software Architecture
+- Clean Architecture
+- Design Patterns (Creacional, Estrutural, Comportamental)
+- SOLID Principles
+- Microsserviços
+- Event-Driven Architecture
+- Sistemas Distribuídos
+- REST APIs
+- CI/CD & Automação
+- DevSecOps
+- Escalabilidade & Performance
 
 ---
 
 ## 🎓 Formação
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** – Universidade Nove de Julho  
-- 🎓 **Pós-graduação em Arquitetura de Software** – *em andamento*
+| Curso | Instituição | Período |
+|---|---|---|
+| Pós-Graduação em Software Architecture | FIAP | Jun/2025 – Mai/2026 |
+| Análise e Desenvolvimento de Sistemas | UNINOVE | Ago/2021 – Ago/2024 |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 💼 Experiência
 
-<div align="center">
-  <a href="https://github.com/Juanlimalf">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Juanlimalf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanlimalf&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+**Analista de Desenvolvimento — Nagumo** *(Ago/2022 – Presente)*
+- Desenvolvimento de aplicações web e mobile escaláveis
+- Arquitetura e implementação de APIs REST
+- Deployment em ambientes cloud (AWS, Azure, GCP)
+- Liderança técnica e decisões arquiteturais
+
+**Trajetória de Crescimento — Nagumo** *(Ago/2012 – Ago/2022)*
+- Progressão de área operacional a desenvolvimento técnico especializado
+- Liderança de equipes (até 51 lojas)
+- Gestão de projetos e otimização de processos
 
 ---
 
-## 🌐 Contato
+## 📜 Certificações
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/juan-lima-225163154" target="_blank">
-    <img height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="LinkedIn Juan">
-  </a>
-  <a href="mailto:juanlimalf@gmai.com" target="_blank">
-    <img height="80" width="80" src="https://github.com/Juanlimalf/juanlimalf/blob/daa33062dd1fa3293312400e1a1298c28ce542f7/img/gmail.webp" alt="Email">
-  </a>
-</div>
+- 🎓 **Alura** — 12 certificações (Python, Dart, Flask, OOP, TDD, Collections)
+- 🎓 **FIAP** — 4 certificações (Blockchain, BI, Python, Big Data)
+- 🎓 **Fundação Bradesco** — Python OOP
+- ✅ **LinkedIn Skill Assessment** — Python
 
-<br/>
+---
 
-> “Um especialista é alguém que cometeu todos os erros possíveis em um campo muito estreito.” – Niels Bohr
+<p align="center">
+  📍 Guarulhos — São Paulo — Brasil
+</p>
